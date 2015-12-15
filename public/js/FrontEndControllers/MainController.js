@@ -25,7 +25,7 @@ app.controller('MainController', ['$scope', function ($scope) {
                 URL: 'https://fpwebservice.herokuapp.com/ispalindrome/:word',
                 response_format: 'JSON',
                 parameters: ':word',
-                example_req: 'hhttps://fpwebservice.herokuapp.com/ispalindrome/Racecar',
+                example_req: 'https://fpwebservice.herokuapp.com/ispalindrome/Racecar',
                 example_res: '{"isPalindrome":true}'
             }
         ]
