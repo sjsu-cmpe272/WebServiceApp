@@ -2,7 +2,7 @@
 <p><strong>Service and API:</strong></p>
 Web Service App that returns Fibonacci number sequence and verifies if a word is a Palindrome or not.
 
-Service Available at: https://palindrome-api.herokuapp.com/
+Service Available at: https://fpwebservice.herokuapp.com/
 
 <h3><strong>API Provided:</strong></h3>
 <ul>
@@ -13,7 +13,7 @@ Service Available at: https://palindrome-api.herokuapp.com/
 
 <h3>Built with:</h3>
 <ul>
-    <li><p><strong>Infrastructure:</strong> AWS EC2</p></li>
+    <li><p><strong>Infrastructure (PaaS):</strong> Heroku</p></li>
     <li><p><strong>Backend:</strong> NodeJS, Express, EJS</p></li>
     <li><p><strong>FrontEnd:</strong> JavaScript, HTML, CSS, Bootstrap, AngularJS</p></li>
     <li><p><strong>Testing:</strong> Jasmine-Node</p></li>

@@ -6,6 +6,7 @@
     "body-parser": "^1.14.1",
     "ejs": "^2.3.4",
     "express": "^4.13.3",
+    "jasmine-core": "^2.4.1",
     "underscore": "^1.8.3"
   }
 }
