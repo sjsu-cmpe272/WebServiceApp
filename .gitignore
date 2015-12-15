@@ -1,0 +1,17 @@
+# Ignore  environmental variables, including API keys.
+.env
+
+# npm packages
+node_modules
+
+# Mac
+.DS_Store
+
+# Emacs
+*~
+
+# Any Log file
+*.log
+
+# Any Public Key
+*.pub
