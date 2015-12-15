@@ -15,3 +15,6 @@ node_modules
 
 # Any Public Key
 *.pub
+
+# Any files from WebStorm IDE
+.idea/
